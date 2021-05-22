@@ -1,2 +1,5 @@
 # Upload prohibited
 paiza/
+
+# Text files
+*.txt
